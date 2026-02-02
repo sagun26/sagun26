@@ -10,7 +10,7 @@
 <img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 🌱 **Currently learning laravel**  
-📫 **Reach me at:** `sagunsigdel6@gmail.com@gmail.com`  
+📫 **Reach me at:** `sagunsigdel6@gmail.com`  
 🔮 **Fun fact:** enjoy learning things slowly but deeply  
 
 ---
