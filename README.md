@@ -40,14 +40,14 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagunsigdel&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagun26&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagunsigdel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sagun26&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
