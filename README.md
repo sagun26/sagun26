@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagun sigdel</h1>
+<h1 align="center">Hi 👋, I am Sagun sigdel</h1>
 <h3 align="center">a BIM Student</h3>
 
 <p align="center">
