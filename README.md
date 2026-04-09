@@ -40,7 +40,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagun26&theme=default" alt="GitHub streak of Sagunn"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagun26&theme=default" alt="GitHub streak of Sagunaa"/>
  </p>
 
 ---
