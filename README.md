@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Sagun sigdel</h1>
-<h3 align="center">a BIM Student</h3>
+<h3 align="center"> BIM Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagunsigdel&label=Profile%20Views&color=8b5cf6&style=flat-square" />
