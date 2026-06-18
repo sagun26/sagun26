@@ -45,10 +45,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagun26&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+### 📊 GitHub Stats 
+<td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sagun26&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats - sagun"/>
+      <br/>
 
 ---
 
